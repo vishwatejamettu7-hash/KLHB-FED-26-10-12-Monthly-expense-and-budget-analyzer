@@ -29,5 +29,5 @@ git init
 git add .
 git commit -m "Initial commit - Monthly Expense and Budget Analyzer"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/monthly-expense-and-budget-analyzer.git
+git remote add origin https://github.com/vishwatejamettu7-hash/monthly-expense-and-budget-analyzer.git
 git push -u origin main
